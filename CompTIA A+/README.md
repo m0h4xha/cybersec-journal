@@ -8,7 +8,10 @@ Welcome to the **CompTIA A+** section of my cybersecurity study journal! This di
 
 To ensure maximum retention and practical understanding, my study workflow combines high-quality video instruction with AI-assisted text structuring:
 
-- **Primary Video Source:** [Professor Messer's CompTIA A+ Training Course](https://www.professormesser.com/)
+- **Primary Video Sources:**
+  - 🎥 [Professor Messer - CompTIA A+ Core 1 Playlist](https://www.youtube.com/playlist?list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC)
+  - 🎥 [Professor Messer - CompTIA A+ Core 2 Playlist](https://www.youtube.com/playlist?list=PLG49S3nxzAnna96gzhJrzkii4hH_mgW4b)
+  - 🌐 [Official Course Website](https://www.professormesser.com/)
 - **Note Formatting:** Video transcripts are processed and refined using AI models to create clean, highly organized, and easily searchable Markdown notes.
 
 ---
